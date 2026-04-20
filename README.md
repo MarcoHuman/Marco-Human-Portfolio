@@ -7,8 +7,8 @@
 **Cape Town, South Africa · Available for Freelance Projects**
 
 [![Email](https://img.shields.io/badge/Email-eclipsebymjh%40gmail.com-aa00ff?style=flat-square&logo=gmail&logoColor=white)](mailto:eclipsebymjh@gmail.com)
-[![Figma](https://img.shields.io/badge/Figma-Profile-aa00ff?style=flat-square&logo=figma&logoColor=white)]([https://www.figma.com](https://www.figma.com/team_invite/redeem/qKdpLAeV6HEantqb04Z1PB?t=KcTshFuOc7rfJxff-21))
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Eclipse--Studio-aa00ff?style=flat-square&logo=vercel&logoColor=white)]((https://marcohuman.github.io/marcohuman/))
+[![Figma](https://img.shields.io/badge/Figma-Profile-aa00ff?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/team_invite/redeem/qKdpLAeV6HEantqb04Z1PB?t=KcTshFuOc7rfJxff-21)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Eclipse--Studio-aa00ff?style=flat-square&logo=vercel&logoColor=white)](https://marcohuman.github.io/marcohuman/)
 
 </div>
 
