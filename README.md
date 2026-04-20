@@ -44,7 +44,7 @@ A modern e-commerce home screen featuring personalized greetings, smart search, 
 
 ---
 
-### 2. Droewors — Brand Website
+### 2. Biltong BLVD — Brand Website
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
@@ -58,7 +58,7 @@ A modern e-commerce home screen featuring personalized greetings, smart search, 
 
 A fully designed and developed brand website for a South African droewors product. Features product showcasing, brand identity integration, and a responsive mobile-first layout built with vanilla HTML, CSS, and JavaScript.
 
-**[View Full Project Details](./projects/droewors/README.md)** &nbsp;|&nbsp; **[View Live Site](./biltongblvd/Homepage.html)**
+**[View Full Project Details](./projects/BiltongBlvd/README.md)** &nbsp;|&nbsp; **[View Live Site](./biltongblvd/Homepage.html)**
 
 ![Droewors Preview](./images/droewors-preview.png)
 
