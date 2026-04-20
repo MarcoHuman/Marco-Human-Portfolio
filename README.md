@@ -38,7 +38,7 @@ My process is rooted in **empathy** — understanding the end user before writin
 
 A modern e-commerce home screen featuring personalized greetings, smart search, category navigation, daily deals, and trending products. Designed with a mobile-first approach to create an intuitive and engaging shopping experience.
 
-**[View Full Project Details](./projects/vibecart/README.md)** &nbsp;|&nbsp; **[Live Figma Prototype](https://www.figma.com/proto/8tj8niEmRKnP3D1KATriZn/VibeCart?node-id=31-325&t=qXIGUrkR57Sx52mo-1)**
+**[View Full Project Details](./projects/Vibe-Cart/README.md)** &nbsp;|&nbsp; **[Live Figma Prototype](https://www.figma.com/proto/8tj8niEmRKnP3D1KATriZn/VibeCart?node-id=31-325&t=qXIGUrkR57Sx52mo-1)**
 
 ![VibeCart Preview](./images/VibeCart.png)
 
@@ -78,7 +78,7 @@ A fully designed and developed brand website for a South African droewors produc
 
 A comprehensive brand identity system for Eclipse Clothing — a cosmic-inspired fashion label. Covers logo variations, colour palette, typography hierarchy, brand personality, logo usage guidelines, digital and print specifications, and apparel mockups.
 
-**[View Full Project Details](./projects/eclipse-clothing/README.md)** &nbsp;|&nbsp; **[View Brand Guide PDF](./assets/BusinessY-BrandGuide.pdf)**
+**[View Full Project Details](./projects/Eclipse-Brand-Guide/README.md)** &nbsp;|&nbsp; **[View Brand Guide PDF](./assets/BusinessY-BrandGuide.pdf)**
 
 ![Eclipse Preview](./images/Eclipse.png)
 
@@ -98,7 +98,7 @@ A comprehensive brand identity system for Eclipse Clothing — a cosmic-inspired
 
 A full company profile document for Spade & Archer, a private investigation firm operating across South Africa. Includes mission statement, core values, products and services, target market personas, and contact information.
 
-**[View Full Project Details](./projects/spade-archer/README.md)** &nbsp;|&nbsp; **[View Company Profile PDF](./assets/Company_Profile_Spade_and_Archer.pdf)**
+**[View Full Project Details](./projects/Spade-and-Archer/README.md)** &nbsp;|&nbsp; **[View Company Profile PDF](./assets/Company_Profile_Spade_and_Archer.pdf)**
 
 ![Spade & Archer Preview](./images/SpadeandArcher.png)
 
@@ -132,34 +132,6 @@ A full company profile document for Spade & Archer, a private investigation firm
 | Flutter | Intermediate |
 
 ---
-
-## Repository Structure
-
-```
-Marco-Human-Portfolio/
-│
-├── README.md                          ← You are here
-├── LICENSE
-│
-├── projects/
-│   ├── vibecart/README.md             ← VibeCart project details
-│   ├── droewors/README.md             ← Droewors project details
-│   ├── eclipse-clothing/README.md     ← Eclipse Clothing project details
-│   └── spade-archer/README.md         ← Spade & Archer project details
-│
-├── droewors/                          ← Live website source code
-│   └── Homepage.html
-│
-├── assets/                            ← PDF documents
-│   ├── BusinessY-BrandGuide.pdf
-│   └── Company_Profile_Spade_and_Archer.pdf
-│
-└── images/                            ← Project screenshots
-    ├── VibeCart.png
-    ├── droewors-preview.png
-    ├── Eclipse.png
-    └── SpadeandArcher.png
-```
 
 ---
 
