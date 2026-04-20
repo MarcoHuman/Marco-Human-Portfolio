@@ -28,11 +28,11 @@ Frontend Developer & Designer — responsible for the full design concept, HTML/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/Marco-Human-Portfolio.git
+   git clone https://github.com/MarcoHuman/Marco-Human-Portfolio.git
    ```
 2. Navigate to the droewors folder:
    ```bash
-   cd Marco-Human-Portfolio/droewors
+   cd Marco-Human-Portfolio/BiltongBlvd
    ```
 3. Open `Homepage.html` in any modern web browser (Chrome, Firefox, Safari, Edge).
 
