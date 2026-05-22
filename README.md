@@ -99,7 +99,15 @@ A full company profile document for Spade & Archer, a private investigation firm
 ![Spade & Archer Preview](./images/SpadeandArcher.png)
 
 ---
+## Curriculum Vitae (CV)
 
+![CV Preview](images/CV.png)
+
+**Download my full CV:**
+
+[📄 Download CV (PDF)](assets/Marco-Human-CV.pdf)
+
+---
 ## Technical Skills
 
 ### Design Tools
