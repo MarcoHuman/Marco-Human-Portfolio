@@ -151,7 +151,7 @@ A full company profile document for Spade & Archer, a private investigation firm
 ---
 ## Reflections
 
-### 1. Reflection on Coding in Markdown (STAR Method)
+### 1. Reflection on Mark Down Coding
 
 **Situation:**  
 During the Work Readiness Programme, I was required to create a professional digital portfolio using GitHub Pages and Markdown.
@@ -166,7 +166,7 @@ I learned GitHub Flavoured Markdown (GFM), used headings, tables, links, images,
 I successfully deployed a professional-looking portfolio that is easy to maintain and visually appealing. This experience improved my technical communication skills significantly.
 
 ---
-### 2. Reflection on Mock Interview Experience (STAR Method)
+### 2. Reflection on Mock Interview Experience
 
 **Situation:**  
 As part of the Work Readiness Programme, I was required to record a professional mock job interview.
