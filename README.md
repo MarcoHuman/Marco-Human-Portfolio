@@ -166,7 +166,21 @@ I learned GitHub Flavoured Markdown (GFM), used headings, tables, links, images,
 I successfully deployed a professional-looking portfolio that is easy to maintain and visually appealing. This experience improved my technical communication skills significantly.
 
 ---
+### 2. Reflection on Mock Interview Experience (STAR Method)
 
+**Situation:**  
+As part of the Work Readiness Programme, I was required to record a professional mock job interview.
+
+**Task:**  
+I needed to answer common interview questions confidently, demonstrate my communication skills, and present myself as a job-ready ICT Multimedia Designer.
+
+**Action:**  
+I prepared by researching typical design and technical questions, rehearsed my answers, dressed professionally, ensured good lighting, and maintained eye contact with the camera. I recorded and reviewed the video multiple times before finalizing it.
+
+**Result:**  
+I produced a clear, confident 5–7 minute mock interview that effectively showcased my personality, skills, and enthusiasm for the field. This experience greatly improved my interview readiness and self-confidence.
+
+---
 ## GitHub Pages Deployment Reflection
 
 I used GitHub Pages to host my portfolio because it is free, fast, and directly linked to my repository. This allowed me to showcase my Markdown skills and projects in a live, public environment. The process taught me version control and web deployment basics.
