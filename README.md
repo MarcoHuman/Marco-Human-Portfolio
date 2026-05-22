@@ -105,7 +105,7 @@ A full company profile document for Spade & Archer, a private investigation firm
 
 **Download my full CV:**
 
-[📄 Download CV (PDF)](assets/Marco-Human-CV.pdf)
+[ Download CV (PDF)](assets/Marco_Human_217120377_CV.pdf)
 
 ---
 ## Technical Skills
@@ -149,6 +149,27 @@ A full company profile document for Spade & Archer, a private investigation firm
 | **Available for** | Remote & on-site work worldwide |
 
 ---
+## Reflections
+
+### 1. Reflection on Coding in Markdown (STAR Method)
+
+**Situation:**  
+During the Work Readiness Programme, I was required to create a professional digital portfolio using GitHub Pages and Markdown.
+
+**Task:**  
+I needed to design, structure, and format an entire portfolio website using only Markdown syntax instead of HTML/CSS.
+
+**Action:**  
+I learned GitHub Flavoured Markdown (GFM), used headings, tables, links, images, and sections to create a clean, responsive layout. I also organized my repository with proper folders (assets, projects, images).
+
+**Result:**  
+I successfully deployed a professional-looking portfolio that is easy to maintain and visually appealing. This experience improved my technical communication skills significantly.
+
+---
+
+## GitHub Pages Deployment Reflection
+
+I used GitHub Pages to host my portfolio because it is free, fast, and directly linked to my repository. This allowed me to showcase my Markdown skills and projects in a live, public environment. The process taught me version control and web deployment basics.
 
 ## License
 
