@@ -143,7 +143,7 @@ A full company profile document for Spade & Archer, a private investigation firm
 
 | | |
 |---|---|
-| **Email** | [eclipsebymjh@gmail.com](mailto:eclipsebymjh@gmail.com) |
+| **Email** | [marcohuman6@gmail.com](mailto:marcohuman6@gmail.com) |
 | **Location** | Cape Town, South Africa |
 | **Phone** | +27 72 585 9185 *(Mon–Fri, 9am–6pm SAST)* |
 | **Available for** | Remote & on-site work worldwide |
