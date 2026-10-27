@@ -37,7 +37,7 @@ There were weaknesses. Our stories had no acceptance criteria, priorities or est
 **Evidence:** 
 ---
 <p align="center">
-  <img src="./images/Trello.png" alt="Trello Screenshot" width="400" height="450">
+  <img src="../../images/Trello.png" alt="Trello Screenshot" width="400" height="450">
 </p>
 
 ---
