@@ -20,7 +20,7 @@ Looking back, the charter was also optimistic in places. It set a 9-week timefra
 
 ## 2. User Stories and Tasks
 
-**Evidence:** **[Trello Boards](./assets/WaterWatch_Product_Backlog)**.
+**Evidence:** **[Trello Boards](../../assets/WaterWatch_Product_Backlog.pdf)**.
 
 **Reflection**
 
