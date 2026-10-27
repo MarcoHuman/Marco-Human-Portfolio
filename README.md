@@ -22,9 +22,9 @@ My process is rooted in **empathy** — understanding the end user before writin
 
 ### 1. WaterWatch — Full-Stack Water Monitoring Platform
 
-![WaterWatch Preview](./images/Waterwatch.png)
+![VibeCart Preview]
 <p align="center">
-  <img src="./images/Waterwatch.png" alt="WaterWatch Dashboard" width="300" height="350">
+  <img src="./images/Waterwatch.png" alt="WaterWatch" width="400" height="450">
 </p>
 
 ---
