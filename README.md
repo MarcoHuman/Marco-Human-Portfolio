@@ -23,6 +23,9 @@ My process is rooted in **empathy** — understanding the end user before writin
 ### 1. WaterWatch — Full-Stack Water Monitoring Platform
 
 ![WaterWatch Preview](./images/Waterwatch.png)
+<p align="center">
+  <img src="./images/WaterWatch.png" alt="WaterWatch Dashboard" width="700" height="350">
+</p>
 
 ---
 
