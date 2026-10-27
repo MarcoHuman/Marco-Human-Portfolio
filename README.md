@@ -24,7 +24,7 @@ My process is rooted in **empathy** — understanding the end user before writin
 
 ![WaterWatch Preview](./images/Waterwatch.png)
 <p align="center">
-  <img src="./images/Waterwatch.png" alt="WaterWatch Dashboard" width="700" height="350">
+  <img src="./images/Waterwatch.png" alt="WaterWatch Dashboard" width="300" height="350">
 </p>
 
 ---
