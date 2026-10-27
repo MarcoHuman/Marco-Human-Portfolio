@@ -34,7 +34,13 @@ There were weaknesses. Our stories had no acceptance criteria, priorities or est
 
 ## 3. Product Backlog
 
-**Evidence:** Screenshot or PDF export of the Trello board (`WaterWatch_Product_Backlog.pdf`): 57 cards across Sprints 1 to 15, labelled Day 1 to Day 4.
+**Evidence:** 
+---
+<p align="center">
+  <img src="./images/Trello.png" alt="Trello Screenshot" width="400" height="450">
+</p>
+
+---
 
 **Reflection**
 
