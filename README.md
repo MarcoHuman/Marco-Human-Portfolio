@@ -44,9 +44,11 @@ This case study also documents the PRP370S Agile workflow: team charter, user st
 **Evidence:** [WaterWatch evidence and screenshot folder](./images/WaterWatch/README.md)
 
 ---
+
 <p align="center">
   <img src="./images/Waterwatch.png" alt="WaterWatch" width="400" height="450">
 </p>
+
 ---
 
 ### 2. VibeCart — Mobile UI/UX Design
