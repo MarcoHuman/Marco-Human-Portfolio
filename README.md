@@ -130,6 +130,66 @@ A full company profile document for Spade & Archer, a private investigation firm
 ![Spade & Archer Preview](./images/SpadeandArcher.png)
 
 ---
+
+# Community Store
+### E-Commerce Web Application
+
+A web-based community shopping platform designed to make it easier for customers to explore products, shop online, and access a convenient digital shopping experience.
+
+---
+
+## Project Overview
+
+Community Store is an e-commerce web application developed to provide customers with an accessible online shopping platform. The project combines a user-friendly frontend with a backend system for managing application functionality and data.
+
+The project also provided practical experience in full-stack application development, database integration, and deployment preparation.
+
+## Key Features
+
+- **User Accounts:** Account registration and login functionality.
+- **Product Browsing:** An interface for viewing available products.
+- **Shopping Experience:** A foundation for an online store workflow.
+- **Backend Integration:** Server-side functionality using Node.js and Express.
+- **Database Management:** MySQL integration for storing application data.
+- **Deployment:** Project setup and deployment work using Railway.
+
+## Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| HTML, CSS and JavaScript | Web interface and client-side functionality |
+| Node.js | Backend runtime |
+| Express.js | Server-side routes and application logic |
+| MySQL | Relational database |
+| Git and GitHub | Version control and source-code management |
+| Railway | Deployment and hosting configuration |
+
+## Development Process
+
+The project involved organizing the application structure, preparing the backend, configuring database connectivity, and working through deployment requirements. This helped strengthen my understanding of how frontend components, server-side logic, and persistent data work together in a full-stack application.
+
+## Challenges and Learning
+
+One of the main learning areas was deployment configuration, particularly ensuring that the hosting environment could identify and build the application correctly. Database connection settings and environment variables were also important parts of configuring the application for a hosted environment.
+
+This experience reinforced the importance of clear project structure, correct environment configuration, and testing the application after deployment.
+
+## Screenshots
+
+<p align="center">
+  <img src="../../images/community-store.png" alt="Community Store Homepage" width="800">
+</p>
+
+
+## Project Links
+
+- **Source Code:** [Community Store on GitHub](https://github.com/217120377human/community-store)
+
+---
+
+*This project demonstrates my ongoing development in full-stack web development, database integration, version control, and application deployment.*
+
+---
 ## Curriculum Vitae (CV)
 
 ![CV Preview](images/CV.png)
