@@ -37,7 +37,7 @@ There were weaknesses. Our stories had no acceptance criteria, priorities or est
 **Evidence:** 
 ---
 <p align="center">
-  <img src="../../images/Trello.png" alt="Trello Screenshot>
+  <img src="../../images/Trello.png" alt="Trello Screenshot">
 </p>
 
 **[View WaterWatch Trello Board](https://trello.com/b/GTDSvPCj/waterwatch)**
