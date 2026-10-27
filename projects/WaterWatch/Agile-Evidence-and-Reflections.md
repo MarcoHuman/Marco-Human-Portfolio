@@ -119,7 +119,7 @@ What I would improve is the detail. Our cards named tasks but gave no estimates 
 
 ## 5. Agile Logbook
 
-**Evidence:** **[Trello Boards](../../assets/WaterWatch_Logbook.pdf)**..
+**Evidence:** **[Agile Logbook](../../assets/WaterWatch_Logbook.pdf)**..
 
 **Reflection**
 
