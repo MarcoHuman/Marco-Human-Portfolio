@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-marcohuman6%40gmail.com-aa00ff?style=flat-square&logo=gmail&logoColor=white)](mailto:marcohuman6@gmail.com)
 [![Figma](https://img.shields.io/badge/Figma-Profile-aa00ff?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/team_invite/redeem/qKdpLAeV6HEantqb04Z1PB?t=KcTshFuOc7rfJxff-21)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Marco--Human-aa00ff?style=flat-square&logo=vercel&logoColor=white)](https://marcohuman.github.io/marcohuman/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Marco--Human-aa00ff?style=flat-square&logo=vercel&logoColor=white)](https://marcohuman.github.io/Marco-Human-Portfolio/)
 
 ---
 
@@ -19,6 +19,56 @@ My process is rooted in **empathy** — understanding the end user before writin
 ---
 
 ## Featured Projects
+
+### 1. WaterWatch — Full-Stack Water Monitoring Platform
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" alt="React, Node.js and MySQL" />
+</a>
+
+| Detail | Info |
+|---|---|
+| **Role** | Backend Developer and project documentation contributor; cPanel application and database migration |
+| **Technologies** | Node.js, Express, MySQL, React, Vite, cPanel |
+| **Category** | Full-Stack Development · Deployment · Agile Project Delivery |
+
+WaterWatch is a water-monitoring platform designed to help households and body corporates understand water use, identify possible leaks, and estimate monthly costs using City tariff tiers. My contribution included backend development, project writing and editing, brand documentation, and migrating the application and database to cPanel.
+
+This case study also documents the PRP370S Agile workflow: team charter, user stories and tasks, product backlog, sprint backlog, and logbook. Each section includes reflection on the evidence, the gaps I identified, and how the artefacts connect. The evidence directory is prepared for the original artefacts and screenshots; screenshots can be added without changing the case-study text.
+
+**[View WaterWatch Case Study](./projects/WaterWatch/README.md)** &nbsp;|&nbsp; **[Read Agile Evidence & Reflections](./projects/WaterWatch/Agile-Evidence-and-Reflections.md)**  
+**[Open Live WaterWatch App](https://witty-platinum-panda.92-205-106-102.cpanel.site/waterwatch/)** &nbsp;|&nbsp; **[View WaterWatch Trello Board](https://trello.com/b/GTDSvPCj/waterwatch)**
+
+**Evidence:** [WaterWatch evidence and screenshot folder](./images/WaterWatch/README.md)
+
+---
+
+### 2. VibeCart — Mobile UI/UX Design
+
+### 1. WaterWatch — Full-Stack Water Monitoring Platform
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" alt="React, Node.js and MySQL" />
+</a>
+
+| Detail | Info |
+|---|---|
+| **Role** | Backend Developer and project documentation contributor; cPanel application and database migration |
+| **Technologies** | Node.js, Express, MySQL, React, Vite, cPanel |
+| **Category** | Full-Stack Development · Deployment · Agile Project Delivery |
+
+WaterWatch is a water-monitoring platform designed to help households and body corporates understand water use, identify possible leaks, and estimate monthly costs using City tariff tiers. My contribution included backend development, project writing and editing, brand documentation, and migrating the application and database to cPanel.
+
+This case study also documents the PRP370S Agile workflow: team charter, user stories and tasks, product backlog, sprint backlog, and logbook. Each section includes reflection on the evidence, the gaps I identified, and how the artefacts connect. The evidence directory is prepared for the original artefacts and screenshots; screenshots can be added without changing the case-study text.
+
+**[View WaterWatch Case Study](./projects/WaterWatch/README.md)** &nbsp;|&nbsp; **[Read Agile Evidence & Reflections](./projects/WaterWatch/Agile-Evidence-and-Reflections.md)**  
+**[Open Live WaterWatch App](https://witty-platinum-panda.92-205-106-102.cpanel.site/waterwatch/)** &nbsp;|&nbsp; **[View WaterWatch Trello Board](https://trello.com/b/GTDSvPCj/waterwatch)**
+
+**Evidence:** [WaterWatch evidence and screenshot folder](./images/WaterWatch/README.md)
+
+---
+
+### 2. VibeCart — Mobile UI/UX Design
 
 ### 1. VibeCart — Mobile UI/UX Design
 
@@ -40,7 +90,7 @@ A modern e-commerce home screen featuring personalized greetings, smart search, 
 
 ---
 
-### 2. Biltong BLVD — Brand Website
+### 3. Biltong BLVD — Brand Website
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
@@ -60,7 +110,7 @@ A fully designed and developed brand website for a South African droewors produc
 
 ---
 
-### 3. Eclipse Clothing — Brand Identity
+### 4. Eclipse Clothing — Brand Identity
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=dark" />
@@ -80,7 +130,7 @@ A comprehensive brand identity system for Eclipse Clothing — a cosmic-inspired
 
 ---
 
-### 4. Spade & Archer — Company Profile
+### 5. Spade & Archer — Company Profile
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=illustrator,indesign&theme=dark" />
