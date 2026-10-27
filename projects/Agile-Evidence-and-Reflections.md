@@ -2,13 +2,11 @@
 
 **PRP370S – Project Presentation III | Marco Julian Human (217120377)**
 
-Each section below follows the rubric: the **evidence** to show, then a **reflection**.
-
 ---
 
 ## 1. Agile Team Charter
 
-**Evidence:** Link **[Agile PDF Charter](./assets/AgileTeamCharter_PRP370S-1)**.
+**Evidence:** **[Agile PDF Charter](./assets/AgileTeamCharter_PRP370S-1)**.
 
 **Reflection**
 
