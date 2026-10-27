@@ -20,7 +20,7 @@ Looking back, the charter was also optimistic in places. It set a 9-week timefra
 
 ## 2. User Stories and Tasks
 
-**Evidence:** Screenshot or export of the Trello cards. Each sprint card holds one user story, its topic and its daily tasks (for example, Sprint 6: "As a body corporate trustee or homeowner, I want WaterWatch demonstrated clearly and the offer explained simply, so that I feel confident committing to the pilot").
+**Evidence:** **[Trello Boards](./assets/WaterWatch_Product_Backlog)**.
 
 **Reflection**
 
