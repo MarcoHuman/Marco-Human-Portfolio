@@ -186,6 +186,7 @@ This experience reinforced the importance of clear project structure, correct en
 ## Project Links
 
 - **Source Code:** [Community Store on GitHub](https://github.com/217120377human/community-store)
+- **Live Site:** [Community Store](https://remarkable-kindness-production-ccce.up.railway.app/)
 
 ---
 
