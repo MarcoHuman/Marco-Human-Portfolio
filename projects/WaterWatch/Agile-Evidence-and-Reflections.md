@@ -56,7 +56,13 @@ The backlog did its main job of giving the team a clear order of work. Its weakn
 
 ## 4. Sprint Backlog
 
-**Evidence:** The Sprint 6 and Sprint 7 (Day 1) tables below.
+**Evidence:** 
+<p align="center">
+  <img src="../../images/Day6.png" alt="Sprint Day 6 Screenshot" width="400" height="450">
+</p>
+<p align="center">
+  <img src="../../images/Day7.png" alt="Sprint Day 7" width="400" height="450">
+</p>
 
 ### Sprint 6 – Landing Page, Pre-Order Testing & Pop-Up Prep (11–14 August 2026)
 
