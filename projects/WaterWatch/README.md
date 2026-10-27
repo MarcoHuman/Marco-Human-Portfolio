@@ -31,9 +31,3 @@ The PRP370S evidence and reflections are documented in [Agile Evidence and Refle
 3. Product Backlog
 4. Sprint Backlog
 5. Agile Logbook
-
-The reflection connects the artefacts and discusses lessons from the difference between the initial charter, the planned 15 sprints, and the work completed through Sprint 7 Day 1.
-
-## Security note
-
-Do not publish the original application archive or any `.env` file in the public portfolio. Keep database passwords, API keys, tokens, and other deployment secrets private. Only add sanitised screenshots and approved project evidence.
