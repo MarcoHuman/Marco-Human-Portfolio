@@ -22,11 +22,6 @@ My process is rooted in **empathy** — understanding the end user before writin
 
 ### 1. WaterWatch — Full-Stack Water Monitoring Platform
 
-![VibeCart Preview]
-<p align="center">
-  <img src="./images/Waterwatch.png" alt="WaterWatch" width="400" height="450">
-</p>
-
 ---
 
 <a href="https://skillicons.dev">
@@ -49,6 +44,10 @@ This case study also documents the PRP370S Agile workflow: team charter, user st
 **Evidence:** [WaterWatch evidence and screenshot folder](./images/WaterWatch/README.md)
 
 ---
+<p align="center">
+  <img src="./images/Waterwatch.png" alt="WaterWatch" width="400" height="450">
+</p>
+---
 
 ### 2. VibeCart — Mobile UI/UX Design
 
@@ -66,7 +65,9 @@ A modern e-commerce home screen featuring personalized greetings, smart search, 
 
 **[View Full Project Details](./projects/Vibe-Cart/README.md)** &nbsp;|&nbsp; **[Live Figma Prototype](https://www.figma.com/proto/8tj8niEmRKnP3D1KATriZn/VibeCart?node-id=31-325&t=qXIGUrkR57Sx52mo-1)**
 
-![VibeCart Preview](./images/VibeCart.png)
+<p align="center">
+  <img src="./images/VibeCart.png" alt="Vibecart" width="400" height="450">
+</p>
 
 ---
 
