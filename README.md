@@ -177,7 +177,7 @@ This experience reinforced the importance of clear project structure, correct en
 ## Screenshots
 
 <p align="center">
-  <img src="../../images/community-store.png" alt="Community Store Homepage" width="800">
+  <img src="./images/community-store.png" alt="Community Store Homepage" width="800">
 </p>
 
 
