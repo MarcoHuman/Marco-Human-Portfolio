@@ -8,7 +8,7 @@ Each section below follows the rubric: the **evidence** to show, then a **reflec
 
 ## 1. Agile Team Charter
 
-**Evidence:** Link or embed `AgileTeamCharter_PRP370S-1.pdf`.
+**Evidence:** Link **[Agile PDF Charter](./assets/AgileTeamCharter_PRP370S-1)**.
 
 **Reflection**
 
