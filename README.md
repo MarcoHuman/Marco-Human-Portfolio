@@ -24,6 +24,8 @@ My process is rooted in **empathy** — understanding the end user before writin
 
 ![WaterWatch Preview](./images/Waterwatch.png)
 
+---
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" alt="React, Node.js and MySQL" />
 </a>
