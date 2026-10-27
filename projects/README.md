@@ -22,20 +22,6 @@ My contribution included Node.js and MySQL backend development, project writing/
 - **Hosting / deployment:** cPanel
 - **Project workflow:** Agile artefacts managed and tracked with Trello
 
-## cPanel migration
-
-The migration covered the application and its database. Evidence can be added below as screenshots, with sensitive credentials hidden before publication.
-
-Suggested evidence to add to `../../images/WaterWatch/`:
-
-1. `cpanel-application.png` — Node.js application configuration in cPanel.
-2. `cpanel-files.png` — deployed application folder structure in File Manager.
-3. `database-import.png` — database/schema visible in phpMyAdmin, with credentials and private values hidden.
-4. `live-app.png` — WaterWatch running in the browser.
-5. `trello-board.png` — Trello board showing the Agile workflow.
-
-Screenshots have intentionally not been fabricated or included; add your own evidence when ready.
-
 ## Agile evidence and reflections
 
 The PRP370S evidence and reflections are documented in [Agile Evidence and Reflections](./Agile-Evidence-and-Reflections.md). The five areas are:
