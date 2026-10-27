@@ -45,33 +45,6 @@ This case study also documents the PRP370S Agile workflow: team charter, user st
 
 ### 2. VibeCart — Mobile UI/UX Design
 
-### 1. WaterWatch — Full-Stack Water Monitoring Platform
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql&theme=dark" alt="React, Node.js and MySQL" />
-</a>
-
-| Detail | Info |
-|---|---|
-| **Role** | Backend Developer and project documentation contributor; cPanel application and database migration |
-| **Technologies** | Node.js, Express, MySQL, React, Vite, cPanel |
-| **Category** | Full-Stack Development · Deployment · Agile Project Delivery |
-
-WaterWatch is a water-monitoring platform designed to help households and body corporates understand water use, identify possible leaks, and estimate monthly costs using City tariff tiers. My contribution included backend development, project writing and editing, brand documentation, and migrating the application and database to cPanel.
-
-This case study also documents the PRP370S Agile workflow: team charter, user stories and tasks, product backlog, sprint backlog, and logbook. Each section includes reflection on the evidence, the gaps I identified, and how the artefacts connect. The evidence directory is prepared for the original artefacts and screenshots; screenshots can be added without changing the case-study text.
-
-**[View WaterWatch Case Study](./projects/WaterWatch/README.md)** &nbsp;|&nbsp; **[Read Agile Evidence & Reflections](./projects/WaterWatch/Agile-Evidence-and-Reflections.md)**  
-**[Open Live WaterWatch App](https://witty-platinum-panda.92-205-106-102.cpanel.site/waterwatch/)** &nbsp;|&nbsp; **[View WaterWatch Trello Board](https://trello.com/b/GTDSvPCj/waterwatch)**
-
-**Evidence:** [WaterWatch evidence and screenshot folder](./images/WaterWatch/README.md)
-
----
-
-### 2. VibeCart — Mobile UI/UX Design
-
-### 1. VibeCart — Mobile UI/UX Design
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 </a>
