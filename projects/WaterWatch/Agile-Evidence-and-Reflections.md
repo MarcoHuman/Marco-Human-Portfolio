@@ -6,7 +6,7 @@
 
 ## 1. Agile Team Charter
 
-**Evidence:** **[Agile PDF Charter](./assets/Company_Profile_Spade_and_Archer.pdf)**.
+**Evidence:** **[Agile PDF Charter](./assets/AgileTeamCharter_PRP370S-1.pdf)**.
 
 **Reflection**
 
