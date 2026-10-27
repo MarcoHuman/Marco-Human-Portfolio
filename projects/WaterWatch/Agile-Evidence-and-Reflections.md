@@ -37,7 +37,7 @@ There were weaknesses. Our stories had no acceptance criteria, priorities or est
 **Evidence:** 
 ---
 <p align="center">
-  <img src="../../images/Trello.png" alt="Trello Screenshot" width="400" height="450">
+  <img src="../../images/Trello.png" alt="Trello Screenshot>
 </p>
 
 **[View WaterWatch Trello Board](https://trello.com/b/GTDSvPCj/waterwatch)**
@@ -58,10 +58,10 @@ The backlog did its main job of giving the team a clear order of work. Its weakn
 
 **Evidence:** 
 <p align="center">
-  <img src="../../images/Day6.png" alt="Sprint Day 6 Screenshot" width="400" height="450">
+  <img src="../../images/Day6.png" alt="Sprint Day 6 Screenshot">
 </p>
 <p align="center">
-  <img src="../../images/Day7.png" alt="Sprint Day 7" width="400" height="450">
+  <img src="../../images/Day7.png" alt="Sprint Day 7">
 </p>
 
 ### Sprint 6 – Landing Page, Pre-Order Testing & Pop-Up Prep (11–14 August 2026)
